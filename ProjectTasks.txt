@@ -1,7 +1,7 @@
 do 10.08 do zrobienia
 ===============
 
-- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION) (po deployu)
+- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION + w kodzie ma zczytywać z pliku env wartość a teraz jest statycznie podany string) (po deployu)
 - ochrona routów (change backend name to difficult) (po deployu)
 - profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 - test zakupów (po deployu)
