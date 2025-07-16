@@ -12,8 +12,7 @@ do 10.08 do zrobienia
 - moduł raport zbiorczy faktur
 - deployment + domena spedytorszkolenia.pl
 - przelewy24 + możliwość rat dla klienta
-- facebook 30%
-- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł)
+- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 10 zł)
 -webinar na stronie głównej 
 -oferta "od zera do spedytora" html 50%
 - oferta "szkoła kontaktów i sprzedaży w spedycji" html 50%
