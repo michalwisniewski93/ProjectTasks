@@ -13,7 +13,7 @@ do 10.08 do zrobienia
 - przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
 - zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 10 zł)
 -webinar na stronie głównej 
-- oferta "zlecenie spedycyjne krok po kroku" html 50%
+- oferta "zlecenie spedycyjne krok po kroku" html 50% + ściągnij kolekcję z mongo i ją zapisz na onedriveie w folderze OFERTY
 - po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
 dzień 3 wykresu czasu pracy z tachografów
