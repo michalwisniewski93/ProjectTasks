@@ -1,0 +1,41 @@
+do 10.08 do zrobienia
+===============
+
+- jak przechowywać sekrety?
+- ochrona routów (change backend name to difficult)
+- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz
+- test zakupów (po deployu)
+- ziprepo, usuń cert localhost pliki .pem
+- test wszystkich funkcjonalności (po deployu)
+- faktura dla os. fizycznej (jakie property)
+- zwroty czy f. korygujaca? nie koryguj fakturę tylko wystaw korygującą i załącz potwierdzenie zwrotu
+- moduł raport zbiorczy faktur
+- deployment + domena spedytorszkolenia.pl
+- przelewy24 + możliwość rat dla klienta
+- facebook 10%
+- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł)
+-webinar na stronie głównej 
+-oferta "od zera do spedytora" html 50%
+- oferta "szkoła kontaktów i sprzedaży w spedycji" html 50%
+- oferta "zlecenie spedycyjne krok po kroku" html 50%
+- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
+- szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
+dzień 3 wykresu czasu pracy z tachografów
+dzień 5 załączyć wzór CMR
+dzień 11 timocom filmiki jak korzystać z giełdy
+dni czy części rozważyć
+tam gdzie nie umię nie robić ćwiczeń praktycznych
+piętrzenie palet rysunek
+dzień 25 rysunki rozmieszczenia palet
+- szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
+pokazać google maps, pokazać outscraper
+- szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt)
+przeanalizować kurs pod kątem zadań
+slajd 11 - pod
+slajd 13
+slajd 23 - awizacja
+rozw 25,76,86,127,147,157,175,178,193
+wz - 45
+cmr wypełniony - 55
+awizacja wypełniona - 66
+przykład polisa ocp - 106
