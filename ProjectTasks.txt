@@ -1,17 +1,17 @@
 do 10.08 do zrobienia
 ===============
 
-- jak przechowywać sekrety?
-- ochrona routów (change backend name to difficult)
-- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz
+- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION) (po deployu)
+- ochrona routów (change backend name to difficult) (po deployu)
+- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 - test zakupów (po deployu)
-- ziprepo
+- ziprepo (po deployu)
 - test wszystkich funkcjonalności (po deployu)
 - faktura dla os. fizycznej (jakie property)
 - zwroty czy f. korygujaca? nie koryguj fakturę tylko wystaw korygującą i załącz potwierdzenie zwrotu
 - moduł raport zbiorczy faktur
 - deployment + domena spedytorszkolenia.pl
-- przelewy24 + możliwość rat dla klienta
+- przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
 - zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 10 zł)
 -webinar na stronie głównej 
 -oferta "od zera do spedytora" html 50%
