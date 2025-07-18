@@ -6,7 +6,6 @@ do 10.08 do zrobienia
 - test zakupów (po deployu)
 - ziprepo (po deployu)
 - test wszystkich funkcjonalności (po deployu)
-- zwroty czy f. korygujaca? nie koryguj fakturę tylko wystaw korygującą i załącz potwierdzenie zwrotu
 - moduł raport zbiorczy faktur
 - deployment + domena spedytorszkolenia.pl
 - przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
