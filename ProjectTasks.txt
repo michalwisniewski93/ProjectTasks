@@ -4,7 +4,6 @@ do 10.08 do zrobienia
 - ochrona routów (change backend name to difficult) (po deployu)
 - profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 - test zakupów (po deployu)
-- ziprepo (po deployu)
 - test wszystkich funkcjonalności (po deployu)
 - deployment + domena spedytorszkolenia.pl
 - przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
