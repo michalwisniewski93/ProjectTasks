@@ -14,23 +14,7 @@ do 10.08 do zrobienia
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper
 - szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt)
-
-
-slajd13 -> potrzebny załącznik z rozwiązaniem
-slajd25 -> potrzebny załącznik z rozwiązaniem
-47 -> to samo
-66 -> to samo
-75 -> to samo
-86 -> to samo
-106 -> to samo
-116 -> to samo
-127 -> to samo
-134 -> załączyć wzór CMR
-147 -> załącznik z rozwiązaniem
-157 -> to samo
-175 -> to samo
-178 -> to samo
-193 -> to samo 
+potrzebny załącznik z rozwiązaniem, slajdy: 13,25, 47, 66,75, 86, 106, 116, 127, 134, 147, 157, 175, 178, 193
 wz - 45
 cmr wypełniony - 55
 awizacja wypełniona - 66
