@@ -1,15 +1,15 @@
 do 10.08 do zrobienia
 ===============
-- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION + w kodzie ma zczytywać z pliku env wartość a teraz jest statycznie podany string) (po deployu)
-- ochrona routów (change backend name to difficult) (po deployu)
-- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
-- test zakupów (po deployu)
-- test wszystkich funkcjonalności (po deployu)
-- deployment + domena spedytorszkolenia.pl
-- przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
-- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 10 zł)
--webinar na stronie głównej 
-- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
+30min- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION + w kodzie ma zczytywać z pliku env wartość a teraz jest statycznie podany string) (po deployu)
+5min- ochrona routów (change backend name to difficult) (po deployu)
+20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
+1godz- test zakupów (po deployu)
+1godz- test wszystkich funkcjonalności (po deployu)
+3godz- deployment + domena spedytorszkolenia.pl
+2godziny- przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
+1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 10 zł)
+2dni-webinar na stronie głównej 
+5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper
