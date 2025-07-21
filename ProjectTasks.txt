@@ -11,7 +11,7 @@ do 10.08 do zrobienia
 -webinar na stronie głównej 
 - po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
-tam gdzie nie umię nie robić ćwiczeń praktycznych  Prezentacja, Prezentacja1
+dodać kilka odpowiedzi do zadań
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper
 - szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt)
