@@ -6,13 +6,13 @@ do 10.08 do zrobienia
 1godz- test zakupów (po deployu)
 1godz- test wszystkich funkcjonalności (po deployu)
 3godz- deployment + domena spedytorszkolenia.pl
-1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 7,99 zł lajki.io) + Business Vibes front-music.pl ( 49zł )
+1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 7,99 zł lajki.io) 
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper
 - szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt)
-- webinar 50%
+- webinar 50% muzyka bright moments
 
 
 
