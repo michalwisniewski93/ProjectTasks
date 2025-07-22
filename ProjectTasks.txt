@@ -6,7 +6,7 @@ do 10.08 do zrobienia
 1godz- test zakupów (po deployu)
 1godz- test wszystkich funkcjonalności (po deployu)
 3godz- deployment + domena spedytorszkolenia.pl
-2godziny- przelewy24 + możliwość rat dla klienta (po deployu i założeniu firmy)
+2godziny- klarna raty (po deployu i założeniu firmy)
 1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł) + kilka lajków profilu (ok. 7,99 zł lajki.io) + Business Vibes front-music.pl ( 49zł )
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
