@@ -1,11 +1,11 @@
 do 10.08 do zrobienia
 ===============
+3godz- deployment mongo, express, react + domena spedytorszkolenia.pl
 30min- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION + w kodzie ma zczytywać z pliku env wartość a teraz jest statycznie podany string) (po deployu)
 5min- ochrona routów (change backend name to difficult) (po deployu)
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu)
 1godz- test wszystkich funkcjonalności (po deployu)
-3godz- deployment mongo, express, react + domena spedytorszkolenia.pl
 1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł)
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
