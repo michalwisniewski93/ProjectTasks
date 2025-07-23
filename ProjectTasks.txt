@@ -1,6 +1,6 @@
 do 10.08 do zrobienia
 ===============
-3godz- deployment mongo, express, react + domena spedytorszkolenia.pl
+3godz- deployment express, react + domena spedytorszkolenia.pl
 30min- jak przechowywać sekrety?  50% (chatgpt -> VERCEL ENV SOLUTION + w kodzie ma zczytywać z pliku env wartość a teraz jest statycznie podany string) (po deployu)
 5min- ochrona routów (change backend name to difficult) (po deployu)
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
