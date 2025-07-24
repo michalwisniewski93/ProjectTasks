@@ -1,6 +1,6 @@
 do 10.08 do zrobienia
 ===============
-3godz- deployment express, react + domena spedytorszkolenia.pl
+3godz- deployment react + domena spedytorszkolenia.pl
 30min- sekrety na froncie
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu)
