@@ -3,7 +3,7 @@ do 10.08 do zrobienia
 3godz- deployment react + domena spedytorszkolenia.pl
 30min- sekrety na froncie
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
-1godz- test zakupów (po deployu)
+1godz- test zakupów (po deployu) sprawdzić poprawność kluczy
 1godz- test wszystkich funkcjonalności (po deployu)
 1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł)
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema
