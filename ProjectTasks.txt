@@ -1,6 +1,6 @@
 do 10.08 do zrobienia
 ===============
-3godz- deployment react (linki do zdjęć), (ładowanie kursów i artykułów progressbar) + domena spedytorszkolenia.pl
+3godz- deployment express, react (linki do zdjęć), (ładowanie kursów i artykułów progressbar) + domena spedytorszkolenia.pl
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy
 1godz- test wszystkich funkcjonalności (po deployu)
