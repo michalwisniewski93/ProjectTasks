@@ -4,7 +4,7 @@ do 10.08 do zrobienia
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy
 1godz- test wszystkich funkcjonalności (po deployu)
-1godz- zdjęcie biznesowe na stronie gł. i na facebooku (fotojoker Z.Arkady 150zł)
+1godz- zdjęcie biznesowe na stronie gł. i na facebooku (Drukarnia 0 zł)
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
