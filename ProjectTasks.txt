@@ -4,7 +4,7 @@ do 10.08 do zrobienia
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy
 1godz- test wszystkich funkcjonalności (po deployu)
-1godz- zdjęcie biznesowe na stronie gł.  (Drukarnia 0 zł) Radosław Wiśniewski
+1godz- zdjęcie biznesowe na stronie gł.  Radosław Wiśniewski
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)   (5/31) moduł 6 oczekuje na montaż
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
