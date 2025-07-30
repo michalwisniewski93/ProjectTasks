@@ -6,7 +6,7 @@ do 10.08 do zrobienia
 1godz- test wszystkich funkcjonalności (po deployu)
 1godz- zdjęcie biznesowe na stronie gł.  Radosław Wiśniewski
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema
-- szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)   (5/31) moduł 6 oczekuje na montaż
+- szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)   (10/31) 
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper   (0/10)
 - szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt) (0/20)
