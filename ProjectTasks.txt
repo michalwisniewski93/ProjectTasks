@@ -5,7 +5,6 @@ WTOREK- profile równoległe korzystanie z serwisu przez kilku użytkowników na
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy + przelewy24
 WTOREK- test wszystkich funkcjonalności (po deployu)
 5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema i uzupełnić salessites coursecontent
-PONIEDZIAŁEK szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)   (29/32) 
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper   (0/10)
 - szkolenie "zlecenie spedycyjne krok po kroku - od klienta do realizacji" (nagrywki + montaż + upload na yt) (0/20)
