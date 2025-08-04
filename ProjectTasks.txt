@@ -1,10 +1,10 @@
 do 10.08 do zrobienia
 ===============
-3godz- domena spedytorszkolenia.pl (zdjąć dostęp)
+3godz- domena spedytorszkolenia.pl (zdjąć dostęp) + Basket zaakceptuj regulamin
 20min- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy + przelewy24
 1godz- test wszystkich funkcjonalności (po deployu)
-5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema
+5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema i uzupełnić salessites coursecontent
 - szkolenie "od zera do spedytora" (nagrywki + montaż + upload na yt)   (25/31) 
 - szkolenie "szkoła kontaktów i sprzedaży w spedycji" (nagrywki + montaż + upload na yt)
 pokazać google maps, pokazać outscraper   (0/10)
