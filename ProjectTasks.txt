@@ -3,4 +3,4 @@ do 10.08 do zrobienia
 WTOREK- profile równoległe korzystanie z serwisu przez kilku użytkowników naraz (po deployu)
 1godz- test zakupów (po deployu) sprawdzić poprawność kluczy + przelewy24
 WTOREK- test wszystkich funkcjonalności (po deployu)
-5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema i uzupełnić salessites coursecontent
+5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema i uzupełnić salessites coursecontent, 20 moduł upload yt
