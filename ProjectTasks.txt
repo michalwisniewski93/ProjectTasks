@@ -1,4 +1,4 @@
 do 10.08 do zrobienia
 ===============
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) sprawdzić poprawność kluczy + przelewy24
-5min- po nagraniu kursów zedytować czasy trwania kursów w 3 ofertach i podmienić dema i uzupełnić salessites coursecontent, 20 moduł upload yt
+5min- i podmienić dema i uzupełnić salessites coursecontent, 20 moduł upload yt
