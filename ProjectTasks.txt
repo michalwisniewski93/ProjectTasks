@@ -1,4 +1,4 @@
 do 10.09 do zrobienia
 ===============
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + przelewy24
-poprawić kodowanie wersji mobilnych niektórych widoków
+poprawić style wersji mobilnych niektórych widoków
