@@ -1,3 +1,5 @@
 do 10.09 do zrobienia
 ===============
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + przelewy24
+
+Recently P24 has started to require that all merchants need to have the following available on a live website: -Terms and Conditions page that contain: -Refund Policy -Privacy Policy -Company details =An About us Page that contains: -Their VAT number -Registration Number -Company Address =Products & Pricing for what they are selling -*Info is present on website linked to Stripe account
