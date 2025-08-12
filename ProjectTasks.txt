@@ -1,4 +1,4 @@
 do 10.09 do zrobienia
 ===============
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + przelewy24
-5min- wybrać filmikinagrać kurs1mod1 usunąć mlaśnięcia 3modu14 ok, 2gmaps ok i podmienić dema  + okladki i te dema będą publiczne i będą ściągały klientów z youtube (infoquality
+ 3modu14 ok, 2gmaps ok i podmienić dema  + okladki  (infoquality
