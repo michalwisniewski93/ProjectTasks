@@ -2,3 +2,5 @@ do 10.09 do zrobienia
 =====================
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + tpay
 zapisek 'metoda kasowa' na fakturach
+wylaczyc komentarze
+ceidg-1 i vat r
