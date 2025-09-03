@@ -1,4 +1,6 @@
 do 10.09 do zrobienia
 =====================
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + tpay
-ceidg-1 i vat r 1.09 pon
+niech zamówienia się nie dublują (coś pokombinować) albo niech się pojawia etykieta nieopłacone czy coś
+tytuły className="courseTitleHero"
+załączniki do modułów
