@@ -2,6 +2,6 @@ do 10.09 do zrobienia
 =====================
 1godz- test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + tpay
 niech zamówienia się nie dublują (coś pokombinować) albo niech się pojawia etykieta nieopłacone czy coś
-tytuły className="courseTitleHero"
+tytuły className="courseTitleHero" 27px
 załączniki do modułów
 
