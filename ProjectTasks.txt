@@ -4,4 +4,4 @@ do 10.09 do zrobienia
 niech zamówienia się nie dublują (coś pokombinować) albo niech się pojawia etykieta nieopłacone czy coś
 tytuły className="courseTitleHero"
 załączniki do modułów
-optimizilla
+
