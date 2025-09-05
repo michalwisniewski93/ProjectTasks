@@ -1,6 +1,5 @@
 do 10.09 do zrobienia
 =====================
 test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + tpay
-załączniki do modułów 40%
+załączniki do modułów 70%
 pełny backup frontendu i backendu do Onedrive 
-
