@@ -1,5 +1,5 @@
 do 10.09 do zrobienia
 =====================
 test zakupów i funkcjonalności związanych z wystawianiem faktury i zapisem orderu (po deployu) + tpay
-pełny backup frontendu i backendu i bazy danych do Onedrive 
+pełny backup frontendu i backendu do Onedrive 
 fotki wolno się wyświetlają
